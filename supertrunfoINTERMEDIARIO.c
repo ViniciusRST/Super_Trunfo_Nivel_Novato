@@ -5,10 +5,8 @@ int main(){
     float areaA, areaB, pibA, pibB; //float para números reais.
     float densidadeA, densidadeB;
     float pib_per_capitaA, pib_per_capitaB;
-    float divisaoA;
-    float divisaoB;
-    float divisaoC;
-    float divisaoD;
+    float divisaoA, divisaoB;
+    float divisaoC, divisaoD; 
     int populacaoA, populacaoB, pontos_turisticosA, pontos_turisticosB; //int para números inteiros.
 
     //Primeira Carta<
